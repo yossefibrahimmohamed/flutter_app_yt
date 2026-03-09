@@ -68,7 +68,7 @@ Make sure to accept these permissions when prompted by the app.
 ## 👨‍💻 Author
 
 **Youssef Ibrahim**
-- GitHub: [@your-github-username](https://github.com/your-github-username)
+- GitHub: [[@your-github-username](https://github.com/your-github-username)](https://github.com/yossefibrahimmohamed)
 
 ## 📄 License
 
@@ -76,5 +76,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 *Version 4.0*
+
 
 
