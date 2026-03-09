@@ -2,9 +2,9 @@
 
 A powerful and user-friendly YouTube Downloader application built with Flutter. This project was converted from a Python script to a modern mobile application, providing a seamless experience for downloading videos, playlists, and audio directly to your device.
 
-# Photo in app 
+## 📸 Screenshots
 
-![Screenshot_2026-03-09-21-35-21-40_c00d0eb60056e8de15d123ee2f2ee1a0](https://github.com/user-attachments/assets/c9af7e98-6605-4bf1-a76c-9af66722e886)
+<img src="https://github.com/user-attachments/assets/c9af7e98-6605-4bf1-a76c-9af66722e886" width="300" alt="App Screenshot">
 
 
 ## 🚀 Features
@@ -76,4 +76,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 *Version 4.0*
+
 
